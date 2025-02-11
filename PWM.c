@@ -5,7 +5,7 @@
 #define PWM_PIN 22
 
 const uint16_t WRAP_PERIOD = 4000; // Período do PWM
-const float PWM_DIVISER = 3.0; // Divisor de Clock
+const float PWM_DIVISER = 5.0; // Divisor de Clock
 const uint16_t PWM_STEP = 200; // Passo de incremento do PWM
 uint16_t DUTY_CYCLE = 480; // Ciclo de Trabalho
 
