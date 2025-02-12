@@ -1,6 +1,7 @@
 # Controle de Servo Motor com Raspberry Pi Pico
 
-Este projeto implementa o controle de um servo motor usando o Raspberry Pi Pico e a biblioteca de hardware PWM.
+Este projeto implementa o controle de um servo motor usando o Raspberry Pi Pico e a biblioteca de hardware PWM. 
+Link do vídeo referente ao programa: https://youtu.be/4HRfO-mKsps 
 
 ## Funcionalidades
 - Inicializa o PWM no pino **GPIO 22** para controlar o servo motor.
